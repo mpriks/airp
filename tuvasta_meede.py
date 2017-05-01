@@ -14,17 +14,14 @@ print(toimik['taotlusvoorTahis'] + ' ' + toimik['meedeNimi'] + '\n')
 
 # Leader 19.3
 if taotlusvoor_tahis == '19.3.2016':
-    print('Leader')
 
 
 # Liit 4 voor
 elif taotlusvoor_tahis == '4.1.2017_4':
-    print('Liit')
 
 
 # Väikesed 4 voor
 elif taotlusvoor_tahis == '6.3.2017_4':
-    print('Väikesed')
 
 
 else:
