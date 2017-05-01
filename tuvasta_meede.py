@@ -24,7 +24,7 @@ elif taotlusvoor_tahis == '4.1.2017_4':
 
 # Väikesed 4 voor
 elif taotlusvoor_tahis == '6.3.2017_4':
-    print('Väikesed')
+    print('Väikesed 4 voor')
 
 
 else:
