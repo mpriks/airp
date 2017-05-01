@@ -14,6 +14,7 @@ print(toimik['taotlusvoorTahis'] + ' ' + toimik['meedeNimi'] + '\n')
 
 # Leader 19.3
 if taotlusvoor_tahis == '19.3.2016':
+    print('Leader')
 
 
 # Liit 4 voor
