@@ -2,7 +2,7 @@ import json
 
 
 
-json_string = open('sisend_json.txt', 'r', encoding="utf8").read()
+json_string = open('C:\\Users\\martinpr\\Documents\\GitHub\\sisend_failid\\leader_19_2', 'r', encoding="utf8").read()
 parsed_json = json.loads(json_string)
 
 toimik = parsed_json.get('toimik')
@@ -14,7 +14,13 @@ print(toimik['taotlusvoorTahis'] + ' ' + toimik['meedeNimi'] + '\n')
 
 # Leader 19.3
 if taotlusvoor_tahis == '19.3.2016':
-    print('Leader')
+    print('Leader 19.3')
+
+
+
+# Leader 19.2
+if taotlusvoor_tahis == '19.2.2016':
+    print('Leader 19.2')
 
 
 # Liit 4 voor
